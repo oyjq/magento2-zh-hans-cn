@@ -1,6 +1,8 @@
 英文,中文,类别,模块
 All,全部,module,Magento_AdminGws
 None,无,module,Magento_AdminGws
+Stored Payment Methods,支付方式,module,Magento_Customer
+You have no stored payment methods.,暂时没有支付方式,module,Magento_Customer
 Allowed Scopes,允许的作用域,module,Magento_AdminGws
 You need more permissions to delete this item(s): %1.,你需要更多的权限删除这个项目：%1。,module,Magento_AdminGws
 You need more permissions to apply some of the rule updates.,你需要更多的权限应用某些规则的更新。,module,Magento_AdminGws
@@ -1826,7 +1828,7 @@ We found other products you might like!,我们发现你可能会喜欢其他产�
 More Choices:,更多的选择:,module,Magento_Catalog
 Check items to add to the cart or,检查物品添加到购物车或,module,Magento_Catalog
 select all,选择全部,module,Magento_Catalog
-Items %1-%2 of %3,产品 %1%2 的 %3,module,Magento_Catalog
+Items %1-%2 of %3,产品 %1-%2 的 %3,module,Magento_Catalog
 %1 Item,%1 个产品,module,Magento_Catalog
 %1 Items,%1 个产品,module,Magento_Catalog
 Show,显示,module,Magento_Catalog
